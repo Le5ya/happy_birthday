@@ -118,6 +118,24 @@ img {
 	line-height: 1.6;
 	font-family: 'Bad Script';
 }
+.footer__container {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	
+}
+.footer__text {
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 30px;
+	color: #000000;
+	
+}
+.social-link {
+	text-decoration: none;
+}
 @media(max-width: 880px) {
 	.container {
 		padding: 0 10px;
