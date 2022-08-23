@@ -133,6 +133,15 @@ img {
 	color: #000000;
 	
 }
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.footer__social {
+  display: flex;
+  gap: 8px;
+}
 .social-link {
 	text-decoration: none;
 }
