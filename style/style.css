@@ -77,6 +77,13 @@ a {
 		color: #fff;
 		margin-right: 30px;
 }
+.men .header__button-change{
+  background-color: #1178b2;
+}
+.women .header__button-change {
+  background-color: #c300c7;
+
+}
 .header__button-change:last-child {
 	margin-right: 0;
 }
@@ -133,6 +140,7 @@ a {
 	transform: translate(-50%, -50%);
 	font-size: max(3em, min(calc(100vw * 3 / 140), 6em));
 	line-height: 1.6;
+  
 	 
 }
 .women .card__text {
